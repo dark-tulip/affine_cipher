@@ -1,8 +1,8 @@
-# affine_cipher
+# Affine cipher - аффинный шифр
 
 run it by:
 
-python affine_cipher.py
+```python affine_cipher.py```
 
 The result is:
 
