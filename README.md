@@ -1,4 +1,19 @@
-# Affine cipher - аффинный шифр
+
+# Affine broot - перебор вариантов ключа для афинного шифра, Алфавит - русский, 33 символа
+
+Перенаправляем вывод программы в текстовый файл
+
+```python affine_broot.py > result.txt```
+
+![image](https://user-images.githubusercontent.com/89765480/145520221-a91e385d-1fbc-4a2c-aa63-cc0c7a106024.png)
+
+
+Открытый текст ищем вручную из файла
+
+![image](https://user-images.githubusercontent.com/89765480/145520338-c4b2b9ac-9dac-4436-bc35-1ca41cc1febc.png)
+
+
+# Affine cipher - Шифрование с помощью аффинного шифра
 
 run it by:
 
