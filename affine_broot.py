@@ -26,7 +26,7 @@ i = 0
 
 sorted_freq_dic = {k: v for k, v in sorted(frequncy_disctionary.items(), key=lambda item: item[1])}
 for key in sorted_freq_dic:
-    print(key, ':', sorted_freq_dic[key], '->',letters_freq_constants[i])
+    print(key, ':', sorted_freq_dic[key], '->', letters_freq_constants[i])
     i+=1
 
 
@@ -51,7 +51,7 @@ b_key_list = [ind for ind in range(alpha_len)]
 
 
 print(a_key_list)
-print(f'Возможных вариантов взлома шифра: {len(a_key_list)}x{alpha_len} = {alpha_len * len(a_key_list)}')
+print(f'\nВозможных вариантов взлома шифра: {len(a_key_list)}x{alpha_len} = {alpha_len * len(a_key_list)}\n')
 
 i = 0
 
