@@ -5,8 +5,7 @@
 
 ```python affine_broot.py > result.txt```
 
-![image](https://user-images.githubusercontent.com/89765480/145520221-a91e385d-1fbc-4a2c-aa63-cc0c7a106024.png)
-
+![image](https://user-images.githubusercontent.com/89765480/145523183-4c18f749-d1cf-4b2b-9001-1c4a7b5a2811.png)
 
 Открытый текст ищем вручную из файла
 
